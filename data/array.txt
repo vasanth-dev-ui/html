@@ -1,0 +1,4 @@
+array - https://developer.mozilla.org/en-US/docs/Web/JavaScript/reference/Global_Objects/Array/reverse
+
+replace, replacw all, search, slice, concade, startswiyh, endswith, substring, 2string method, 2uppercase,
+2 lower case, trim, trimend, trimstart, valueof, includes, match, match all, repeat, split.

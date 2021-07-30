@@ -1,0 +1,14 @@
+From Diviyakumar SM to Everyone:  06:19 PM
+// function avg(sum, subjects) { // named function
+//     return sum / subjects
+// };
+// let avg = function(sum, subjects) { // un-named function
+//     return sum / subjects
+// };
+// let avg = (sum, subjects) => { // Arrow function
+//     return sum / subjects
+// };
+
+let avg = (sum, subjects) => sum / subjects;
+let big = (a, b) => a > b ? a : b;
+let oddEven = num => num%2 === 0;
